@@ -26,7 +26,7 @@
 
 <p align="center">
 <img alt="Made by Azevedo Tau" src="https://img.shields.io/badge/made%20by-Azevedo Tau-%20?color=34cb79">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/ecoleta_nlwrocketseat?color=34cb79">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/azevedotau-ai/e-coleta/ecoleta_nlwrocketseat?color=34cb79">
 <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/ecoleta_nlwrocketseat?color=34cb79">
 </p>
 
